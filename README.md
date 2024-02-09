@@ -1,1 +1,1 @@
-# MathCode2024
+# MathMode2024
